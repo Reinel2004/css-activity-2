@@ -14,11 +14,13 @@
 #landing h1{
     font-size: 50px;
     position: relative;
+    text-shadow: 1px 1px 1px black;
 }
 #landing p{
     font-size: 20px;
     position: relative;
     color: whitesmoke;
+    text-shadow: 1px 1px 1px black;
 }
 #landing h1, p{
     text-align: center;
@@ -136,7 +138,7 @@ li{
     padding: 20px;
 }
 li:nth-child(1){
-    background-color: red;
+    background-color: orangered;
 }
 li:hover{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
